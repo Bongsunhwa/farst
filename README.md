@@ -1,4 +1,4 @@
-# redme 파일연습
+# readme 파일연습
 ```
 System.out.printin ("hi");
 ```
